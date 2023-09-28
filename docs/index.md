@@ -1,26 +1,19 @@
 # Vanguard 10U 2023 - 2024 Season
 
-The 10&Under Coed Program at [Vanguard Aquatics](vanguardaquatics.com) strives to be a safe, posative and _highly competative_ environment for young athletes to learn and grow and build connections, and groups of friends for years to come.
+The 10U Coed Program at [Vanguard Aquatics](https://www.vanguardaquatics.com) strives to be a safe, positive, and _highly competitive_ environment for young athletes to learn, grow and build connections, and groups of friends for years to come.
 
-In order to provide the kind of experience we think is most valuable for our athletes, we highly encourage as much attendance as possible and communication about athletes' schedules.
+To provide the kind of experience we think is most valuable for our athletes, we highly encourage as much attendance as possible and communication about athletes' schedules.
 
-I have been invovled with the group since 2014 and have had the absolute privledge of watching athletes create some incredible memories gain friendships that have all lasted to this day, in high school and college, and developed into some of the best water polo players in the country.
-
-## Learn More about Vanguard 10U 2023 - 2024 Season
-
-[[toc]]
+I have been involved with the group since 2014 and have had the absolute privilege of watching athletes create some incredible memories and gain friendships that have all lasted to this day, in high school and college, and developed into some of the best water polo players in the country.
 
 ## Who is this for
 
-An athlete's age for each season is determined by their age _August 1st of the end of that season_. So for the 2023 - 2024 season you are 9&Under if you turn 10 after August 1st, 2023. And you are an 8&Under if you turn 9 after August 1st, 2023. etc.
-
-Typically athletes begin competing on the team as a 8&Under or 9&Under. 10&Under is obviously great as well, but certainly athletes in this range of gained so much from the program and that is what we hope to have a good mix of on the team every year. If you are an 8&Under or 9&Under then you will be preparing yourself for a more successful 10&Under season when it comes to that.
-
-There is **_NO ONE_** that trained with us in August that is not ready for the 10&Under team.
+Athletes can start competing as early as 7 years old. All ages are welcome.
+Everyone that has trained with us in August is well prepared to compete in the 10U season.
 
 ## History - 10U Coed @ National Junior Olympics
 
-Each year leads up to a National Junior Olympic Tournament in late July. This also includes a qualifier tournament in early June. All placements are in the Platnium (Highest) Division.
+Each year leads up to a National Junior Olympic Tournament in late July. This also includes a qualifier tournament in early June. All placements are in the Platinum Division.
 
 - 2013 - Coed 1st 🥇
 - 2014 - Coed 1st 🥇
@@ -34,11 +27,11 @@ Each year leads up to a National Junior Olympic Tournament in late July. This al
 - 2022 - Coed 7th
 - 2023 - Coed 2nd 🥈
 
-In 2024 the Qualifier will be in Orange County and the Finals will be in San Jose.
+In 2024, the Qualifiers will be in Orange County and the Finals will be in San Jose.
 
 ## Practice Schedule
 
-We practice 4 times per week, for 1.5 hours per practice. And we _highly_ encourage attendance at all practices. Almost all practices will be at Huntington Beach High School.
+We practice 4 times per week, for 1.5 hours per practice. We _highly_ encourage consistent attendance at all practices. Most practices will be at Huntington Beach High School.
 
 | Day            |    Time     |                     Location |
 | -------------- | :---------: | ---------------------------: |
@@ -50,11 +43,11 @@ We practice 4 times per week, for 1.5 hours per practice. And we _highly_ encour
 | Friday         | 5 - 6:30 PM | Huntington Beach High School |
 | Saturday - OFF |             |                              |
 
-Practices focus on: _water polo fundamentals_, _strength and endurance_, _some swim fundamentals_ such as _free style_, _breast stroke kick_, _flutter kick_. We also work on an understanding of the game and it's rules, and finally, _team work_, _listening_, _focus_, and _accountability_.
+Practices focus on: _water polo fundamentals_, _strength and endurance_, _swim fundamentals_ such as _free style_, _breast stroke kick_, _flutter kick_. We work on understanding the game and its rules, and finally, _team work_, _listening_, _focus_, and _accountability_.
 
 ## Coaches
 
-::: details Nick Graffis - Head Coach 10&Under Coed, Director SplashBall
+::: details Nick Graffis - Head Coach 10U Coed, Director SplashBall
 
 [Bio on vanguardaquatics.com](https://vanguardaquatics.com/nick-graffis/)
 
@@ -65,9 +58,9 @@ Practices focus on: _water polo fundamentals_, _strength and endurance_, _some s
 - Huntington Beach Boys Water Polo Varsity Assistant - 2014 - 2016, 2023 - present
   - 2016 - CIF-SS DI Runners Up
 - Edison High School Head Boys and Girls Water Polo - 2016 - 2023
-  - 2020 - CIF-SS DIV Girls Semi Finalists
+  - 2020 - CIF-SS DIV Girls Semi-Finalists
   - 2022 - CIF-SS DII Girls Runners Up
-- Orange Coach College Women’s Water Polo Associate Head - 2019 - 2020
+- Orange Coach College Women’s Water Polo Associate Head Coach - 2019 - 2020
 - Cypress College Mens and Women’s Water Polo Assistant - 2020 - 2023
 
 ### Specific to Vanguard 10U & Splash Ball:
@@ -76,18 +69,22 @@ Practices focus on: _water polo fundamentals_, _strength and endurance_, _some s
 - Dare 2 Dream Champions - 2016, 2018, 2019
 - Dare 2 Dream Top 4 - 2017, 2022 (COVID 2020, 2021)
 - 10U Coed National Finish:
+
   - 2017 - 9th
   - 2018 - 1st
   - 2019 - 2nd
   - 2020 - COVID
   - 2021 - 9th
   - 2022 - 7th
-- 10U Girls National Finish:
-  _ 2017 - 3rd
-  _ 2018 - 2nd
-  :::
 
-::: details Myles Simpson - Assistant Coach 10&Under Coed
+- 10U Girls National Finish:
+
+  - 2017 - 3rd
+  - 2018 - 2nd
+
+:::
+
+::: details Myles Simpson - Assistant Coach 10U Coed
 [Bio on vanguardaquatics.com](https://vanguardaquatics.com/myles-simpson/)
 
 Myles started playing water polo at age 9 at Huntington Beach. He joined Vanguard Aquatics at the age of 10 and returned as a coach in 2022.
@@ -99,13 +96,12 @@ He has over 8 years of playing experience in both high school and Age Group Wate
 
 ## Tournaments & Events
 
-We compete in about 1 tournament a month. Theses will last two days and the times are TBD, but will generally include 2 games per day.
+- We compete in about 1 tournament a month.
+- Each tournament lasts 2 days, with 2 games per day.
 
-10&Under Water Polo is played 5 v 5. And depending on the number of atheltes we might create multiple teams for tournaments, either by even split, age, ability, experience, attendance, or split into Boys & Girls teams.
+* 10U Water Polo is played 5 v 5. Depending on the number of athletes our program has, we might create multiple teams for tournaments. These teams may be split by age, ability, experience, attendance, or Boys & Girls teams.
 
-Tournaments encure an additional cost, but scrimmages do not. A scrimmage is generally a single game against another team, and a tournament is a series of games against multiple teams.
-
-| Tournament                     |      Date      |         Location |
+| Tournament / Event             |      Date      |         Location |
 | ------------------------------ | :------------: | ---------------: |
 | Team Scrimmage                 |    Sept 16     | Huntington Beach |
 | Evan Cousineau Cup             |   Oct 7 - 8    |    Orange County |
@@ -117,23 +113,30 @@ Tournaments encure an additional cost, but scrimmages do not. A scrimmage is gen
 
 ## Calendar
 
-[A link to a 10&Under Static Calendar through January, 2024](/calendar)
+[A link to a 10U Static Calendar through January, 2024](/calendar)
 
 [A link to the Vanguard Aquatics General Calendar](https://www.clubassistant.com/club/calendar/?c=2071)
 
 ## Cost
 
-The cost for 10&Under Coed Team is $200 per month. This includes all practices, and any scrimmages or games. This does **NOT** include tournaments. Which are an additional cost per tournament.
+- $200 per month. This includes all practices, and any scrimmages. This does **NOT** include tournaments.
+- _There is a sibling discount_ - 25% off for first sibling, 50% off for second sibling, free for 3rd sibling.
+- Contact [Sasa Branisavljevic](mailto:sasa@hbvanguard.com) for more information on cost and payment.
 
-## Comparission to Splash Ball
+## Comparison to Splash Ball
 
-Vanguard Aquatics is a Competative Water Polo Club. And our focus is to introduce athletes to competative water polo and quickly bring them into the competative environment. Although SplashBall is a great introduction to the sport, it is not competative and does not provide the same level of social connection and accountability that we think is most valuable for young athletes.
+Vanguard Aquatics is an elite water polo club. Our focus is to introduce athletes to a more competitive atmosphere and prepare them for games. Splashball is recreational and serves to introduce new kids to the sport. We encourage athletes to transition to 10U once they feel they would like to start competing and would like a more challenging environment.
 
-| Value                                               |                   Splash Ball                    |                                                       10U |
-| --------------------------------------------------- | :----------------------------------------------: | --------------------------------------------------------: |
-| Practies per week                                   |                        3                         |                                                         4 |
-| Hours per week                                      |                        1                         |                                                       1.5 |
-| Coaches                                             | Riley, Sofia, Ben, Mikey, Sharon, Vivian, Beckam |                                               Nick, Myles |
-| Opportunity to play competative teams               |                        ❌                        |                                                        ✅ |
-| Opportunity to learn accountability with teammamtes |                        ❌                        |                                                        ✅ |
-| Goals                                               |       Fun introduction, social connection        | Team work, accountability, social connection, competitive |
+| Value                                              |                   Splash Ball                    |                                                       10U |
+| -------------------------------------------------- | :----------------------------------------------: | --------------------------------------------------------: |
+| Practices per week                                 |                        3                         |                                                         4 |
+| Hours per week                                     |                        1                         |                                                       1.5 |
+| Cost per month                                     |                     $125.00                      |                                                   $200.00 |
+| Coaches                                            | Riley, Sofia, Ben, Mikey, Sharon, Vivian, Beckam |                                               Nick, Myles |
+| Opportunity to play competitive teams              |                        ❌                        |                                                        ✅ |
+| Opportunity to learn accountability with teammates |                        ❌                        |                                                        ✅ |
+| Goals                                              |       Fun introduction, social connection        | Team work, accountability, social connection, competitive |
+
+## How to sign up
+
+You can sign up [here](https://www.clubassistant.com/club/clinics/reserve.cfm?c=2071&cid=96593).

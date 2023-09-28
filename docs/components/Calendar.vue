@@ -36,7 +36,7 @@
               <ol v-if="day.events.length > 0" class="mt-2">
                 <li v-for="event in day.events.slice(0, 2)" :key="event.id">
                   <a :href="event.href" class="group flex">
-                    <p class="flex-auto truncate font-medium text-slate-900 dark:text-slate-200 group-hover:text-indigo-600">
+                    <p :class="event?.canceled ? 'line-through' : ''" class="flex-auto truncate font-medium text-slate-900 dark:text-slate-200 group-hover:text-indigo-600">
                       {{ event.name }}
                     </p>
                     <time :datetime="event.datetime" class="ml-3 hidden flex-none text-gray-500 group-hover:text-indigo-600 xl:block">{{ event.time }}</time>
@@ -65,7 +65,7 @@
         <ol class="divide-y divide-gray-100 overflow-hidden bg-white dark:bg-slate-800 text-sm shadow ring-1 ring-black ring-opacity-5">
           <li v-for="event in selectedDay.events" :key="event.id" class="group flex p-4 pr-6 focus-within:bg-slate-50 dark:bg-slate-700 hover:bg-slate-50 dark:bg-slate-700">
             <div class="flex-auto">
-              <p class="font-semibold text-slate-900 dark:text-slate-200">{{ event.name }}</p>
+              <p class="font-semibold text-slate-900 dark:text-slate-200" :class="event?.canceled ? 'line-through' : ''">{{ event.name }}</p>
               <time :datetime="event.datetime" class="mt-2 flex items-center text-slate-700 dark:text-slate-400">
                 <ClockIcon class="mr-2 h-5 w-5 text-slate-400 dark:text-slate-300" aria-hidden="true" />
                 {{ event.time }}
