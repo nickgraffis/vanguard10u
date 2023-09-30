@@ -272,7 +272,15 @@ export const dates = [
   },
   {
     date: "2023-10-02",
-    events: [],
+    events: [
+      {
+        id: 31443434,
+        name: "🔄 Optional 10U Practice 5 - 6:30 PM",
+        time: "5PM",
+        datetime: "2023-10-03T07:00:00.000Z",
+        href: "#",
+      },
+    ],
   },
   {
     date: "2023-10-03",

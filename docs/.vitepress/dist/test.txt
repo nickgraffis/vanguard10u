@@ -1,0 +1,4665 @@
+[
+        {
+          "key_as_string" : "2016-01-01T00:00:00.000Z",
+          "key" : 1451606400000,
+          "doc_count" : 2871,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2029
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 475
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 254
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 111
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2016-02-01T00:00:00.000Z",
+          "key" : 1454284800000,
+          "doc_count" : 3500,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2513
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 579
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 231
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 159
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 8
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2016-03-01T00:00:00.000Z",
+          "key" : 1456790400000,
+          "doc_count" : 4809,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3340
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 883
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 363
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 210
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNT-SLD",
+                "doc_count" : 2
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 2
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 2
+              },
+              {
+                "key" : "UNK4",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2016-04-01T00:00:00.000Z",
+          "key" : 1459468800000,
+          "doc_count" : 4980,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3450
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 889
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 419
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 211
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 4
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 2
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 1
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 1
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2016-05-01T00:00:00.000Z",
+          "key" : 1462060800000,
+          "doc_count" : 5283,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3642
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 915
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 453
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 245
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 12
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 9
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 3
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2016-06-01T00:00:00.000Z",
+          "key" : 1464739200000,
+          "doc_count" : 5054,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3487
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 905
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 414
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 235
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 7
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 3
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2016-07-01T00:00:00.000Z",
+          "key" : 1467331200000,
+          "doc_count" : 4562,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3158
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 833
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 342
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 209
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 10
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 7
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2016-08-01T00:00:00.000Z",
+          "key" : 1470009600000,
+          "doc_count" : 4671,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3081
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 997
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 324
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 241
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 11
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 4
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2016-09-01T00:00:00.000Z",
+          "key" : 1472688000000,
+          "doc_count" : 3795,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2653
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 761
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 210
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 155
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 5
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNT",
+                "doc_count" : 1
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 1
+              },
+              {
+                "key" : "RNT-WDN",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2016-10-01T00:00:00.000Z",
+          "key" : 1475280000000,
+          "doc_count" : 3186,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2301
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 543
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 189
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 128
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 11
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 7
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 2
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNT-EXP",
+                "doc_count" : 1
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2016-11-01T00:00:00.000Z",
+          "key" : 1477958400000,
+          "doc_count" : 2543,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 1822
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 454
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 149
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 96
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 5
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 4
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2016-12-01T00:00:00.000Z",
+          "key" : 1480550400000,
+          "doc_count" : 2037,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 1475
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 362
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 89
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 89
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 11
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 7
+              },
+              {
+                "key" : "RNT",
+                "doc_count" : 1
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 1
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 1
+              },
+              {
+                "key" : "RNT-WDN",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2017-01-01T00:00:00.000Z",
+          "key" : 1483228800000,
+          "doc_count" : 2254,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 1608
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 356
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 147
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 126
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 1
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2017-02-01T00:00:00.000Z",
+          "key" : 1485907200000,
+          "doc_count" : 2839,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2190
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 390
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 141
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 95
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 12
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 1
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 1
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2017-03-01T00:00:00.000Z",
+          "key" : 1488326400000,
+          "doc_count" : 4589,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3565
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 619
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 244
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 128
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 19
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 9
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 1
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 1
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2017-04-01T00:00:00.000Z",
+          "key" : 1491004800000,
+          "doc_count" : 4774,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3534
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 684
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 334
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 160
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 37
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 17
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 2
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2017-05-01T00:00:00.000Z",
+          "key" : 1493596800000,
+          "doc_count" : 5485,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3883
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 843
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 467
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 197
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 60
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 28
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 1
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 1
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2017-06-01T00:00:00.000Z",
+          "key" : 1496275200000,
+          "doc_count" : 5323,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3937
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 692
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 412
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 208
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 37
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 31
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 3
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2017-07-01T00:00:00.000Z",
+          "key" : 1498867200000,
+          "doc_count" : 4932,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3501
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 774
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 405
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 159
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 53
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 30
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 3
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 2
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2017-08-01T00:00:00.000Z",
+          "key" : 1501545600000,
+          "doc_count" : 4872,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3475
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 753
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 339
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 175
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 84
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 28
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2017-09-01T00:00:00.000Z",
+          "key" : 1504224000000,
+          "doc_count" : 3957,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2863
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 674
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 201
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 114
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 65
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 18
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 7
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 5
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2017-10-01T00:00:00.000Z",
+          "key" : 1506816000000,
+          "doc_count" : 3386,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2502
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 497
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 167
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 91
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 61
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 51
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 8
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 3
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2017-11-01T00:00:00.000Z",
+          "key" : 1509494400000,
+          "doc_count" : 2606,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2001
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 291
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 125
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 65
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 58
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 50
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 8
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2017-12-01T00:00:00.000Z",
+          "key" : 1512086400000,
+          "doc_count" : 1996,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 1495
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 246
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 80
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 71
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 43
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 42
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 12
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 1
+              },
+              {
+                "key" : "RNT-SLD",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2018-01-01T00:00:00.000Z",
+          "key" : 1514764800000,
+          "doc_count" : 2870,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 4,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2155
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 232
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 140
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 127
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 95
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 77
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 25
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2018-02-01T00:00:00.000Z",
+          "key" : 1517443200000,
+          "doc_count" : 3465,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2589
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 229
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 207
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 174
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 112
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 100
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 47
+              },
+              {
+                "key" : "RNT-UNK",
+                "doc_count" : 2
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 2
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2018-03-01T00:00:00.000Z",
+          "key" : 1519862400000,
+          "doc_count" : 4401,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3402
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 276
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 228
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 173
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 163
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 119
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 33
+              },
+              {
+                "key" : "RNT-LSE",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 2
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2018-04-01T00:00:00.000Z",
+          "key" : 1522540800000,
+          "doc_count" : 4869,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 9,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3735
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 334
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 318
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 215
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 159
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 42
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 39
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 7
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 6
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2018-05-01T00:00:00.000Z",
+          "key" : 1525132800000,
+          "doc_count" : 5486,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 4157
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 472
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 344
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 239
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 196
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 60
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 8
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 4
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2018-06-01T00:00:00.000Z",
+          "key" : 1527811200000,
+          "doc_count" : 5275,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3917
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 597
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 363
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 180
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 129
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 69
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 10
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 5
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2018-07-01T00:00:00.000Z",
+          "key" : 1530403200000,
+          "doc_count" : 4782,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3522
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 613
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 335
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 198
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 83
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 9
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 9
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2018-08-01T00:00:00.000Z",
+          "key" : 1533081600000,
+          "doc_count" : 4815,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 3,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3464
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 743
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 347
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 175
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 68
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 3
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 3
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNT-SLD",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2018-09-01T00:00:00.000Z",
+          "key" : 1535760000000,
+          "doc_count" : 3904,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2847
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 642
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 200
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 111
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 76
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 8
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 8
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 7
+              },
+              {
+                "key" : "RNT",
+                "doc_count" : 2
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2018-10-01T00:00:00.000Z",
+          "key" : 1538352000000,
+          "doc_count" : 3711,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 3,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2667
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 595
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 213
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 132
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 72
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 9
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 9
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 6
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNT",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2018-11-01T00:00:00.000Z",
+          "key" : 1541030400000,
+          "doc_count" : 2956,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2195
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 460
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 145
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 76
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 63
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 4
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 1
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2018-12-01T00:00:00.000Z",
+          "key" : 1543622400000,
+          "doc_count" : 1921,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 1417
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 284
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 95
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 61
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 41
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 10
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 4
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNT-WDN",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2019-01-01T00:00:00.000Z",
+          "key" : 1546300800000,
+          "doc_count" : 3332,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2626
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 381
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 158
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 91
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 47
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 12
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 7
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2019-02-01T00:00:00.000Z",
+          "key" : 1548979200000,
+          "doc_count" : 3151,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2537
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 331
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 134
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 65
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 63
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 5
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT",
+                "doc_count" : 3
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2019-03-01T00:00:00.000Z",
+          "key" : 1551398400000,
+          "doc_count" : 4060,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3308
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 389
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 162
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 121
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 60
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 6
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 6
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 5
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 1
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2019-04-01T00:00:00.000Z",
+          "key" : 1554076800000,
+          "doc_count" : 5162,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 4158
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 463
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 249
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 200
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 66
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 7
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 7
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 7
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-EXP",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2019-05-01T00:00:00.000Z",
+          "key" : 1556668800000,
+          "doc_count" : 5777,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 4517
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 610
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 333
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 215
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 72
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 9
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 8
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNT",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2019-06-01T00:00:00.000Z",
+          "key" : 1559347200000,
+          "doc_count" : 5166,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 4003
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 533
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 336
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 184
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 81
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 9
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 9
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 2
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2019-07-01T00:00:00.000Z",
+          "key" : 1561939200000,
+          "doc_count" : 5131,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3855
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 574
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 361
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 227
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 86
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 12
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 6
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 4
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2019-08-01T00:00:00.000Z",
+          "key" : 1564617600000,
+          "doc_count" : 4872,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 3,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3696
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 621
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 254
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 194
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 73
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 11
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 8
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 7
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 4
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2019-09-01T00:00:00.000Z",
+          "key" : 1567296000000,
+          "doc_count" : 4099,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3124
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 522
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 185
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 165
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 55
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 17
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 11
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 9
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 7
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2019-10-01T00:00:00.000Z",
+          "key" : 1569888000000,
+          "doc_count" : 3875,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3018
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 469
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 164
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 138
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 63
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 7
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNT",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2019-11-01T00:00:00.000Z",
+          "key" : 1572566400000,
+          "doc_count" : 2808,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 1,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2227
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 354
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 95
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 71
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 43
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 4
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 3
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2019-12-01T00:00:00.000Z",
+          "key" : 1575158400000,
+          "doc_count" : 2150,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 3,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 1761
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 202
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 85
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 50
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 33
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 6
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 4
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 2
+              },
+              {
+                "key" : "UNK",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2020-01-01T00:00:00.000Z",
+          "key" : 1577836800000,
+          "doc_count" : 3298,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2685
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 345
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 117
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 82
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 56
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 3
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNT",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2020-02-01T00:00:00.000Z",
+          "key" : 1580515200000,
+          "doc_count" : 3609,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3020
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 331
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 100
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 79
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 64
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 2
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2020-03-01T00:00:00.000Z",
+          "key" : 1583020800000,
+          "doc_count" : 4734,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3900
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 448
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 171
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 123
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 74
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 4
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNT",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2020-04-01T00:00:00.000Z",
+          "key" : 1585699200000,
+          "doc_count" : 3989,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 6,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3407
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 287
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 107
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 80
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 75
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 10
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNT-WDN",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2020-05-01T00:00:00.000Z",
+          "key" : 1588291200000,
+          "doc_count" : 4648,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 3,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 4101
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 241
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 106
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 99
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 81
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 2
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 2
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2020-06-01T00:00:00.000Z",
+          "key" : 1590969600000,
+          "doc_count" : 4931,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 7,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 4346
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 250
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 124
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 103
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 85
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 4
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 3
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2020-07-01T00:00:00.000Z",
+          "key" : 1593561600000,
+          "doc_count" : 4977,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 7,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 4427
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 231
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 133
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 92
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 69
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 5
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 3
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2020-08-01T00:00:00.000Z",
+          "key" : 1596240000000,
+          "doc_count" : 4816,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 6,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 4279
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 259
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 107
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 79
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 70
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 4
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 3
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 2
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2020-09-01T00:00:00.000Z",
+          "key" : 1598918400000,
+          "doc_count" : 4278,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 9,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3764
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 191
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 102
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 98
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 86
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 8
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNT-SLD",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2020-10-01T00:00:00.000Z",
+          "key" : 1601510400000,
+          "doc_count" : 3992,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 5,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3562
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 171
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 90
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 88
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 55
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 9
+              },
+              {
+                "key" : "RNT-SLD",
+                "doc_count" : 4
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 3
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2020-11-01T00:00:00.000Z",
+          "key" : 1604188800000,
+          "doc_count" : 2615,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2297
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 113
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 53
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 49
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 46
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 39
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 9
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 1
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2020-12-01T00:00:00.000Z",
+          "key" : 1606780800000,
+          "doc_count" : 2284,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 5,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2011
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 107
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 57
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 42
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 41
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 7
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 7
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 3
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 2
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2021-01-01T00:00:00.000Z",
+          "key" : 1609459200000,
+          "doc_count" : 2792,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 5,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2468
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 141
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 63
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 46
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 37
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 16
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 7
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 4
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 3
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2021-02-01T00:00:00.000Z",
+          "key" : 1612137600000,
+          "doc_count" : 3117,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 9,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2694
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 145
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 76
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 65
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 59
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 52
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNT-SLD",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 3
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2021-03-01T00:00:00.000Z",
+          "key" : 1614556800000,
+          "doc_count" : 4210,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3616
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 241
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 115
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 91
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 79
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 47
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 10
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 2
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2021-04-01T00:00:00.000Z",
+          "key" : 1617235200000,
+          "doc_count" : 4601,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 4,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3915
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 321
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 146
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 116
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 76
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 7
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 5
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 4
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2021-05-01T00:00:00.000Z",
+          "key" : 1619827200000,
+          "doc_count" : 4801,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 6,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3937
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 414
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 191
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 146
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 75
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 14
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 7
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2021-06-01T00:00:00.000Z",
+          "key" : 1622505600000,
+          "doc_count" : 5182,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 3,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 4232
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 488
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 187
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 162
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 86
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2021-07-01T00:00:00.000Z",
+          "key" : 1625097600000,
+          "doc_count" : 5554,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 7,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 4373
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 657
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 215
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 193
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 90
+              },
+              {
+                "key" : "RNT-SLD",
+                "doc_count" : 7
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 4
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 3
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 3
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2021-08-01T00:00:00.000Z",
+          "key" : 1627776000000,
+          "doc_count" : 5058,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 12,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3993
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 593
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 188
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 144
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 98
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 10
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 7
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-SLD",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2021-09-01T00:00:00.000Z",
+          "key" : 1630454400000,
+          "doc_count" : 4514,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 7,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3586
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 552
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 154
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 127
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 67
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 6
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 3
+              },
+              {
+                "key" : "OFF",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2021-10-01T00:00:00.000Z",
+          "key" : 1633046400000,
+          "doc_count" : 3893,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 8,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3161
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 430
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 110
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 89
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 69
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 9
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNT",
+                "doc_count" : 4
+              },
+              {
+                "key" : "RNT-SLD",
+                "doc_count" : 4
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2021-11-01T00:00:00.000Z",
+          "key" : 1635724800000,
+          "doc_count" : 2976,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2444
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 307
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 77
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 67
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 59
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 7
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 3
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 3
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2021-12-01T00:00:00.000Z",
+          "key" : 1638316800000,
+          "doc_count" : 2212,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 1896
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 163
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 51
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 36
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 36
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 11
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 9
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNT-PND",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2022-01-01T00:00:00.000Z",
+          "key" : 1640995200000,
+          "doc_count" : 2771,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 2,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2325
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 227
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 79
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 67
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 44
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 15
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 3
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 2
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2022-02-01T00:00:00.000Z",
+          "key" : 1643673600000,
+          "doc_count" : 3079,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 5,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2546
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 275
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 100
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 78
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 49
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 9
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 8
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNT-SLD",
+                "doc_count" : 3
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2022-03-01T00:00:00.000Z",
+          "key" : 1646092800000,
+          "doc_count" : 4457,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 14,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3499
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 487
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 167
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 145
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 87
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 21
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 15
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 8
+              },
+              {
+                "key" : "RNTD",
+                "doc_count" : 8
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 6
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2022-04-01T00:00:00.000Z",
+          "key" : 1648771200000,
+          "doc_count" : 4902,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 6,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3607
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 663
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 247
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 243
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 85
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 27
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 8
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 7
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 6
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2022-05-01T00:00:00.000Z",
+          "key" : 1651363200000,
+          "doc_count" : 5616,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 7,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3688
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 1063
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 387
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 310
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 76
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 55
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 14
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 6
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 6
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2022-06-01T00:00:00.000Z",
+          "key" : 1654041600000,
+          "doc_count" : 6323,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 5,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 3787
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 1413
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 479
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 404
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 83
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 79
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 32
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 15
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 14
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 12
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2022-07-01T00:00:00.000Z",
+          "key" : 1656633600000,
+          "doc_count" : 5316,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 16,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2921
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 1299
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 487
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 371
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 98
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 73
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 23
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 12
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 10
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 6
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2022-08-01T00:00:00.000Z",
+          "key" : 1659312000000,
+          "doc_count" : 4530,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 13,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2623
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 1028
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 356
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 284
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 100
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 71
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 21
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 18
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 8
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 8
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2022-09-01T00:00:00.000Z",
+          "key" : 1661990400000,
+          "doc_count" : 3928,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 6,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2265
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 973
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 276
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 224
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 80
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 64
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 22
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 8
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 6
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2022-10-01T00:00:00.000Z",
+          "key" : 1664582400000,
+          "doc_count" : 3285,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 15,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 1907
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 691
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 256
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 176
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 138
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 45
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 37
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 9
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 7
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2022-11-01T00:00:00.000Z",
+          "key" : 1667260800000,
+          "doc_count" : 2428,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 9,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 1479
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 481
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 148
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 117
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 101
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 42
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 31
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 8
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 7
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2022-12-01T00:00:00.000Z",
+          "key" : 1669852800000,
+          "doc_count" : 1736,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 5,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 1147
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 280
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 77
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 71
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 69
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 42
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 20
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 12
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 11
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2023-01-01T00:00:00.000Z",
+          "key" : 1672531200000,
+          "doc_count" : 2678,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 8,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 1794
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 364
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 150
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 119
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 106
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 72
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 47
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 8
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 6
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2023-02-01T00:00:00.000Z",
+          "key" : 1675209600000,
+          "doc_count" : 2721,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 8,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 1813
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 352
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 202
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 103
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 88
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 83
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 52
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 11
+              },
+              {
+                "key" : "CNT",
+                "doc_count" : 6
+              },
+              {
+                "key" : "LSE",
+                "doc_count" : 3
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2023-03-01T00:00:00.000Z",
+          "key" : 1677628800000,
+          "doc_count" : 3667,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 11,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2223
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 451
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 369
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 276
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 145
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 112
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 62
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 9
+              },
+              {
+                "key" : "CNT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "UNK3-CNT",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2023-04-01T00:00:00.000Z",
+          "key" : 1680307200000,
+          "doc_count" : 3686,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 9,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2062
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 572
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 383
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 364
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 142
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 82
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 56
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 7
+              },
+              {
+                "key" : "CNT",
+                "doc_count" : 5
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 4
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2023-05-01T00:00:00.000Z",
+          "key" : 1682899200000,
+          "doc_count" : 4751,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 20,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2389
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 1005
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 512
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 438
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 198
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 81
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 76
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 15
+              },
+              {
+                "key" : "CNT",
+                "doc_count" : 12
+              },
+              {
+                "key" : "RNT-PND",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2023-06-01T00:00:00.000Z",
+          "key" : 1685577600000,
+          "doc_count" : 4462,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 10,
+            "buckets" : [
+              {
+                "key" : "SLD",
+                "doc_count" : 2009
+              },
+              {
+                "key" : "ACT",
+                "doc_count" : 1259
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 541
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 344
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 161
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 63
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 36
+              },
+              {
+                "key" : "CNT",
+                "doc_count" : 18
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 12
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 9
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2023-07-01T00:00:00.000Z",
+          "key" : 1688169600000,
+          "doc_count" : 3884,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 5,
+            "buckets" : [
+              {
+                "key" : "ACT",
+                "doc_count" : 1577
+              },
+              {
+                "key" : "SLD",
+                "doc_count" : 1215
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 707
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 189
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 85
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 39
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 24
+              },
+              {
+                "key" : "CNT",
+                "doc_count" : 19
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 19
+              },
+              {
+                "key" : "RNT-RNTD",
+                "doc_count" : 5
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2023-08-01T00:00:00.000Z",
+          "key" : 1690848000000,
+          "doc_count" : 3990,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 5,
+            "buckets" : [
+              {
+                "key" : "ACT",
+                "doc_count" : 2384
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 1008
+              },
+              {
+                "key" : "SLD",
+                "doc_count" : 415
+              },
+              {
+                "key" : "UNK3-ACT",
+                "doc_count" : 70
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 40
+              },
+              {
+                "key" : "CNT",
+                "doc_count" : 24
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 19
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 12
+              },
+              {
+                "key" : "UNK3-PND",
+                "doc_count" : 11
+              },
+              {
+                "key" : "RNT",
+                "doc_count" : 2
+              }
+            ]
+          }
+        },
+        {
+          "key_as_string" : "2023-09-01T00:00:00.000Z",
+          "key" : 1693526400000,
+          "doc_count" : 1781,
+          "results" : {
+            "doc_count_error_upper_bound" : 0,
+            "sum_other_doc_count" : 0,
+            "buckets" : [
+              {
+                "key" : "ACT",
+                "doc_count" : 1441
+              },
+              {
+                "key" : "PND",
+                "doc_count" : 292
+              },
+              {
+                "key" : "SLD",
+                "doc_count" : 27
+              },
+              {
+                "key" : "RNT-ACT",
+                "doc_count" : 8
+              },
+              {
+                "key" : "WDN",
+                "doc_count" : 7
+              },
+              {
+                "key" : "CNT",
+                "doc_count" : 4
+              },
+              {
+                "key" : "EXP",
+                "doc_count" : 2
+              }
+            ]
+          }
+        }
+      ]
